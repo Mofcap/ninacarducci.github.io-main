@@ -244,6 +244,16 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+.location{
+	width: 100%;
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	text-align: center;
+	background-color: #000;
+	color: #fff;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
